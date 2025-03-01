@@ -61,7 +61,7 @@ The project automates the following:
    
 2. **Configure AWS Credentials:**
 - Set up your AWS credentials using the AWS CLI or environment variables.
-- 
+
 3. **Initialize Terraform:**
 ```bash
 terraform init
@@ -80,4 +80,17 @@ terraform init
 6. **Deploy the REST API:**
 - Trigger the Jenkins pipeline to deploy the REST API application to the EC2 instances.
 
+## Contributing 🤝
 
+Got ideas to make this project even better? We'd love your input! Here's how you can contribute:
+
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Create a New Branch**: Work on your feature or bugfix in a separate branch.
+3. **Submit a Pull Request**: Describe your changes and why they should be merged.
+
+Let's build something amazing together! 🚀
+
+## Learn More 🔍
+
+Want to dive deeper into how this project works? Check out the step-by-step tutorial here:  
+[Automated REST API Deployment Tutorial](https://youtu.be/otQqd7GRVK0?si=-wvXKtoZFTpJ7TV0)
